@@ -6,5 +6,5 @@ Tenho uma quedinha pela área de Ciência de Dados!
 
 
 - 🐍 Atualmente estou estudando python
-- 📺 Tenho um canal no youtube 
+- 📺 Adoro jogos de estratégia
 - 😼 Tenho 4 gatos!   
