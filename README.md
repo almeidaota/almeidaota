@@ -1,10 +1,9 @@
-### Oi! Me chamo Otávio. 
+### Me chamo Otávio
 
-Apaixonado por tecnologia desde criança, estudo Análise e Desenvolvimento de Sistemas na Fatec Sorocaba. 
-
-Tenho uma quedinha pela área de Ciência de Dados!
+Apaixonado por tecnologia, lógica e matemática desde criança, estudo Análise e Desenvolvimento de Sistemas na Fatec Sorocaba. 
 
 
-- 🐍 Atualmente estou estudando python
-- 📺 Adoro jogos de estratégia
-- 😼 Tenho 4 gatos!   
+
+Fun Facts:
+- Adoro jogos de estratégia
+- Tenho 4 gatos
