@@ -1,9 +1,3 @@
-### Me chamo Otávio
+#Otávio
 
-Apaixonado por tecnologia, lógica e matemática desde criança, estudo Análise e Desenvolvimento de Sistemas na Fatec Sorocaba. 
-
-
-
-Fun Facts:
-- Adoro jogos de estratégia
-- Tenho 4 gatos
+Estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por lógica e matemática, estou estudando Data Science! 
