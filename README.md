@@ -1,3 +1,4 @@
-###Otávio
+Estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por lógica e matemática, estudando Data Science.
 
-Estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por lógica e matemática, estou estudando Data Science! 
+
+Vindica Te Tibi. 
