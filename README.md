@@ -1,9 +1,3 @@
-My digital journal, where I write some code every now and then.
+maybe you can get something useful from here
 
-Nothing fancy.  
-
-Just thoughts, experiments, and half-finished ideas.
-
----
-
-**See you, space cowboy.**
+prolly not. but i'd give it a try anyway
