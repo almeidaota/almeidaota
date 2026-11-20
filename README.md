@@ -1,7 +1,7 @@
 # Hi, I'm Otávio 👋
 
 Systems Analysis and Development student at FATEC Sorocaba, Brazil (graduating June 2027).
-I work with data and machine learning, and I'm applying for a master's in Computer Science (2027).
+I'm a data engineer who enjoys machine learning. It's fun to teach a computer how to solve things 
 
 ### Featured
 
